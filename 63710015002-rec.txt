@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2021-06-25] [10:35:35]       2000              2000
